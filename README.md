@@ -1,5 +1,5 @@
 # Gymnosperm_odb10
-Benchmarking gene set of gymnosperms for assessing genome and annotation completeness in BUSCO
+Wu, J. , Han, Y. , Lin, C. , Cai, J. , & Zhao, Y. Benchmarking gene set of gymnosperms for assessing genome and annotation completeness in BUSCO. Horticulture Research, 2023.
 _______
 # Notice
 This dataset is consistent with the other BUSCO dataset formats, and can be used as gymnosperm lineage to assess the completeness of gymnosperm genome, protein, and transcriptome in BUSCO V5.4.7(https://busco.ezlab.org/).
